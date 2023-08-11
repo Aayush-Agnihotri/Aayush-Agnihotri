@@ -4,4 +4,4 @@ I am currently a student at Cornell University, majoring in Computer Science in 
 
 I aim to leverage technology and data to build useful and innovative products.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-agnihotri&layout=donut&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-agnihotri&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
