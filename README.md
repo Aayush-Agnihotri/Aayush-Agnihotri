@@ -11,5 +11,5 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,ocaml,html,css,nextjs,react,express,nodejs,flask,django,pytorch,aws,azure,gcp,docker,kubernetes,postgres,mongodb,graphql,git,postman,vscode,github&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,ocaml,html,css,nextjs,react,express,nodejs,flask,django,pytorch,aws,azure,gcp,docker,kubernetes,postgres,mongodb,graphql,git,postman,vscode,github&perline=14&theme=light" />
 </div>
