@@ -8,6 +8,12 @@
 - 💻 Full-stack developer who aims to leverage technology and data to build useful and innovative products.
 - 🌎 Visit my [portfolio](https://aayush-agnihotri.me) to learn more about me!
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech Stack</h2></summary>
+  </ul>
+</div>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,c++,ocaml,html,css,nextjs,react,nodejs,flask,express,django,pytorch,numpy,pandas,aws,azure,gcp,docker,git,mongodb,postgresql&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,ocaml,sql,html,css,nextjs,react,express,nodejs,flask,django,pytorch,aws,azure,gcp,docker,kubernetes,postgreSQL,mongodb,graphql,git,postman&perline=14" />
 </div>
