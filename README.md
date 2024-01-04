@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary>Hey, I'm Aayush <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1></summary>
+    <summary><h1 align="center">Hey, I'm Aayush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1></summary>
   </ul>
 </div>
 
@@ -8,4 +8,6 @@
 - 💻 Full-stack developer who aims to leverage technology and data to build useful and innovative products.
 - 🌎 Visit my [portfolio](https://aayush-agnihotri.me) to learn more about me!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-agnihotri&layout=donut&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,c++,ocaml,html,css,nextjs,react,nodejs,flask,express,django,pytorch,numpy,pandas,aws,azure,gcp,docker,git,mongodb,postgresql&perline=14" />
+</div>
