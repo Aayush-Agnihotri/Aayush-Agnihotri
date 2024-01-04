@@ -15,5 +15,5 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,ocaml,sql,html,css,nextjs,react,express,nodejs,flask,django,pytorch,aws,azure,gcp,docker,kubernetes,postgreSQL,mongodb,graphql,git,postman&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,ocaml,html,css,nextjs,react,express,nodejs,flask,django,pytorch,aws,azure,gcp,docker,kubernetes,postgres,mongodb,graphql,git,postman&perline=14" />
 </div>
