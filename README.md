@@ -5,7 +5,7 @@
 </div>
 
 - 🎓 Pursuing a Computer Science degree at Cornell University
-- 💻 Full-stack developer who aims to leverage technology and data to build useful and innovative products
+- 💻 Full stack and machine learning developer who aims to leverage technology and data to build innovative products that help people
 - 🌎 Visit my [portfolio](https://aayush-agnihotri.me) to learn more about me!
 
 <br>
